@@ -1,0 +1,5 @@
+{
+  "name": " Astrology Oracle",
+  "description": "An oracle application that provides future predictions based on a person's date, time, and place of birth, integrating Vedic and modern astrological principles using the Gemini API.",
+  "requestFramePermissions": []
+}
